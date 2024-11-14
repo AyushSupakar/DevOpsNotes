@@ -1,11 +1,11 @@
-# DevOps Notes
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
-This is a consise notes on DevOps.
+# <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="50" height="50" />DevOps Notes <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="50" height="50" /></p> 
+
+<p align="center">This is a consise notes on DevOps.</p>
 
 
-## Authors
+## <div align ="end"> Author : [@AyushSupakar](https://github.com/AyushSupakar) </div>
 
-- [@AyushSupakar](https://github.com/AyushSupakar)
+
 
 
 ## Notes
