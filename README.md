@@ -1,7 +1,6 @@
-﻿
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="100" height="100" position="center" />
 # DevOps Notes
-A brief description of what this project does and who it's for
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" />
+This is a consise notes on DevOps.
 
 
 ## Authors
