@@ -13,9 +13,13 @@ A brief description of what this project does and who it's for
 
 ### Virtual Machines (VMs) :
 - Linux : 
-  - RPM (Fedorda, CenntOs, RedHat) ; Debian (Ubuntu)
+  - Two types (on the basis of packaging) :
+    1. RPM (Fedorda, CenntOs, RedHat)
+    2. Debian (Ubuntu)
+  - Many flavours/types.
   - automation of VM setup by Vagrant;
   - package managers : yum for centOS and apt for Ubuntu;
+  - ssh is used to connect to remote machines that run on linux (most servers and remote machines run on linux).
   - editors : vim (nano is default in ubuntu but can be changed to vim) 
   - lots of commands, See Here : [Ubuntu](https://www.hostinger.in/tutorials/linux-commands?utm_campaign=Generic-Tutorials-DSA|NT:Se|LO:IN-t5&utm_medium=ppc&gad_source=1&gclid=CjwKCAiAudG5BhAREiwAWMlSjP87TAXRsisLVETavNdBgD-v9SE1O655773CF5Omp99pfL5XTGce5RoC4zIQAvD_BwE) ; [CentOS](https://www.openlogic.com/blog/centos-commands-cheat-sheet)
 
